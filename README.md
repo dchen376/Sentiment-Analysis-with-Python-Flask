@@ -3,8 +3,6 @@ This is a personal project by developing a **Python web app using Flask** and in
 
 
 
-About Embeddable Watson AI libraries
-In this project, you'll be using embeddable libraries to create an AI powered Python application.
 
 Embeddable Watson AI libraries include the NLP library, the text-to-speech library and the speech-to-text library. These libraries can be embedded and distributed as part of your application. For your convenience, these libraries have been pre-installed on Skills Network Labs Cloud IDE for use in this project.
 
