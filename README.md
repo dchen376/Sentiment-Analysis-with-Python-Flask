@@ -1,9 +1,19 @@
-# Sentiment-Analysis-
-This is a personal project for building a **Python web app with Flask**.
+# Sentiment-Analysis
+
+This repo is a personal project for practicing the use of **Python Flask**.
+
+This project is done in the below sequence:
+Task 1: Clone the project repository
+Task 2: Create a sentiment analysis application using Watson NLP library
+Task 3: Format the output of the application
+Task 4: Package the application
+Task 5: Run Unit tests on the application
+Task 6: Deploy as web application using Flask
+Task 7: Incorporate error handling
+Task 8: Run static code analysis with Pylint
+
 
 The project integrated Embeddable Watson AI libraries to make the web app showcase AI-based abilities.
-
-
 
 Additional information regarding Embeddable Watson Ai libraries:
 Embeddable Watson AI libraries include the NLP library, the text-to-speech library and the speech-to-text library. These libraries can be embedded and distributed as part of your application. 
